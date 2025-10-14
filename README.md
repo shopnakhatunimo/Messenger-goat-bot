@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/Jsjd0Y0.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> SAGOR -𝗕𝗢𝗧 - 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 SAGOR  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://i.imgur.com/fjA54AK.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐑𝐎𝐂𝐊𝐘 -𝗕𝗢𝗧 - 𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://i.imgur.com/fjA54AK.jpeg Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
